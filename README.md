@@ -7,7 +7,7 @@ developer: https://t.me/ecod3s
 Automate installing go, with path fixes on your machine. Restart your machine after running script then run GO VERSION
 
 # evilginx.sh
-Download and install the latest evilginx version automatically, run go build in directory after install
+Download and install the latest evilginx version automatically, run "go build" in directory after install
 Run ./evilginx.sh -h for help menu.
 
 reach out Developer to build more unique tools and services.
