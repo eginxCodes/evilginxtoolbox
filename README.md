@@ -1,6 +1,8 @@
 # evilginxtoolbox
 Find/Build unique tools for evilginx framework
 
+developer: https://t.me/ecod3s
+
 # goinstall.sh
 Automate installing go, with path fixes on your machine. Restart your machine after running script then run GO VERSION
 
